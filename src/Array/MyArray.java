@@ -31,5 +31,6 @@ public class MyArray {
         System.out.println("list1.get(0) = " + list1.get(0));
         //배열 길이 확인하기
         System.out.println("list1.size() = " + list1.size());
+        System.out.println("list1.size() = " + list1.get(list1.size()-1));
     }
 }
